@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+}
+
+#header {
+    height: 110vh;
+    background-image: url(../img/EL\ PLUGG\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+#header h1 {
+    color: white;
+    margin: 0;
+    padding: 0 20%;
+    font-size: 50px;
+    text-shadow: 0 0 5px black, 0 0 10px black, 0 0 20px black, 0 0 30px black, 0 0 40px black, 0 0 55px black, 0 0 70px black;
+}
+
+#main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#main p {
+    font-size: 20px;
+}
+
+#main h1 {
+    font-size: 40px;
+}
+
+iframe {
+    width: 100%;
+    height: 330px;
+}
+
+#spoiler {
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: #ff317d;
+    text-decoration: none;
+}
+
+#footer {
+    text-align: center;
+    background-color: #17111b;
+    color: #c3b9b6;
+    padding: 12px;
+}
+
+#imagen1 {
+    width: 95%;
+}
+
+#imagen2 {
+    width: 95%;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+* {
+    box-sizing: border-box
+}
